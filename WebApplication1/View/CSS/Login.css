@@ -1,0 +1,99 @@
+﻿body {
+    background-image: url("Img/img-background.jpg");
+    background-color: black;
+}
+
+#background {
+    /* width: 1920px;
+            height: 1080px;*/
+    width: 1900px;
+    height: 910px;
+}
+
+#menu {
+    padding: 10px;
+    color: #ffffff;
+    font-family: 'Sniglet', cursive;
+    /* background-color: blue; */
+}
+
+#LINKCF {
+    font-family: 'Sniglet', cursive;
+    font-size: 15pt;
+    padding: 1px;
+    color: #ffffff;
+    margin-left: 1600px;
+    margin-top: -2000px;
+    text-decoration: none;
+    /*background-color: red; */
+}
+
+#LINKCD {
+    font-family: 'Sniglet', cursive;
+    font-size: 15pt;
+    padding: 1px;
+    color: #ffffff;
+    margin-left: 20px;
+    text-decoration: none;
+    /* background-color: red;*/
+}
+
+
+h3 {
+    font-size: 50pt;
+    color: #ffffff;
+    width: 700px;
+    color: #ffffff;
+    font-size: 10pt;
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 0px;
+    margin-left: 815px;
+}
+
+
+h1 {
+    width: 900px;
+    color: #ffffff;
+    font-size: 80pt;
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 5%;
+    margin-left: 700px;
+    /* background-color: blue; */
+}
+
+button {
+    background-color: #ff2764;
+    color: #ffffff;
+    font-family: 'Quicksand', sans-serif;
+    height: 0.9cm;
+    width: 3cm;
+    border-radius: 50px;
+    border-style: none;
+    margin-left: 870px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+#txtnome {
+    border-radius: 50px;
+    border-style: none;
+    height: 20px;
+    margin-left: 870px;
+    margin-top: -30px;
+    position: absolute;
+}
+
+
+#txtsenha {
+    border-radius: 50px;
+    border-style: none;
+    height: 20px;
+    margin-left: 870px;
+    margin-top: -30px;
+    position: absolute;
+}
+
+.g-signin2{
+    margin-top: 25px;
+    margin-left: 880px;
+}

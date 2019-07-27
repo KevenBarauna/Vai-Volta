@@ -1,0 +1,108 @@
+﻿body {
+    background-image: url("Img/img-background.jpg");
+    background-color: black;
+}
+
+#background {
+
+    /* width: 1920px;
+    height: 1080px;*/
+    width: 1900px;
+    height: 910px;
+}
+
+#menu {
+    padding: 10px;
+    color: #ffffff;
+    font-family: 'Sniglet', cursive;
+    /* background-color: blue; */
+}
+
+#LINKCF {
+    font-family: 'Sniglet', cursive;
+    font-size: 15pt;
+    padding: 1px;
+    color: #5ed2da;
+    margin-left: 1600px;
+    margin-top: -2000px;
+    text-decoration: none;
+    /*background-color: red; */
+}
+
+#LINKCD {
+    font-family: 'Sniglet', cursive;
+    font-size: 15pt;
+    padding: 1px;
+    color: #ffffff;
+    margin-left: 20px;
+    text-decoration: none;
+    /* background-color: red;*/
+}
+
+#menu {
+    padding: 10px;
+    color: #ffffff;
+    font-family: 'Sniglet', cursive;
+    /*  background-color: blue;  */
+}
+
+h1 {
+    width: 900px;
+    color: #ffffff;
+    font-size: 80pt;
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 5%;
+    margin-left: 220px;
+    /* background-color: blue; */
+}
+
+#item {
+    width: 700px;
+    color: #ffffff;
+    font-size: 13pt;
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 0px;
+    margin-left: 19%;
+    /*background-color: blue; */
+}
+
+#subtitulo {
+    width: 700px;
+    color: #ffffff;
+    font-size: 15pt;
+    font-family: 'Quicksand', sans-serif;
+    margin-top: -3%;
+    margin-left: 16%;
+    /*background-color: blue; */
+}
+
+#titulo {
+    width: 300px;
+    color: #ffffff;
+    font-size: 15pt;
+    font-family: 'Quicksand', sans-serif;
+    /*background-color: blue; */
+    margin-left: 18%;
+}
+
+#linhaazul {
+    background-color: #55e9d6;
+    width: 3px;
+    height: 300px;
+    margin-left: 320px;
+    margin-top: -390px;
+}
+
+button {
+    background-color: #ff2764;
+    color: #ffffff;
+    font-family: 'Quicksand', sans-serif;
+    height: 1.3cm;
+    width: 5cm;
+    border-radius: 50px;
+    border-style: none;
+    margin-left: 300px;
+    margin-top: 30px;
+    cursor: pointer;
+    font-size: 12pt;
+}
