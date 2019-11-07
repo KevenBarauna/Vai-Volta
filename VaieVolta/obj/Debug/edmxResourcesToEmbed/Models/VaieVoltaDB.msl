@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="VaieVoltaModelStoreContainer" CdmEntityContainer="VaieVoltaEntities">
+    <EntitySetMapping Name="TB_Emprestimo">
+      <EntityTypeMapping TypeName="VaieVoltaModel.TB_Emprestimo">
+        <MappingFragment StoreEntitySet="TB_Emprestimo">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="obejto" ColumnName="obejto" />
+          <ScalarProperty Name="pessoa" ColumnName="pessoa" />
+          <ScalarProperty Name="telefone" ColumnName="telefone" />
+          <ScalarProperty Name="datadevolucao" ColumnName="datadevolucao" />
+          <ScalarProperty Name="dataemprestimo" ColumnName="dataemprestimo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TB_Usuario">
+      <EntityTypeMapping TypeName="VaieVoltaModel.TB_Usuario">
+        <MappingFragment StoreEntitySet="TB_Usuario">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nome" ColumnName="nome" />
+          <ScalarProperty Name="senha" ColumnName="senha" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

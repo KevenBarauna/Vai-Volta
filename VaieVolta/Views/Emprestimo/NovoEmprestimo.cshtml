@@ -1,0 +1,47 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>NovoEmprestimo</title>
+</head>
+<body>
+    Aqui é a página para criar um novo emprestimo!
+
+    <form action="/Emprestimo/CriarNovoEmprestimo">
+
+        <label for="id"> ID: </label>
+        <input id="id" value="09" name="idtxt" />
+        <br /><br />
+
+        <label for="objetotxt"> Objeto: </label>
+        <input id="objetotxt" value="Controle Ps4" name="objetotxt" />
+        <br /><br />
+
+        <label for="pessoatxt"> Pessoa: </label>
+        <input id="pessoatxt" value="Bruno" name="pessoatxt" />
+        <br /><br />
+
+        <label for="telefonetxt"> Telefone: </label>
+        <input id="telefonetxt" value="(71)9 9310-6733" name="telefonetxt" />
+        <br /><br />
+
+        <label for="iddatadevolucaotxt"> Data de devolução: </label>
+        <input id="datadevolucaotxt" value="20/09/2019" name="datadevolucaotxt" />
+        <br /><br />
+
+        <label for="dataemprestimotxt"> Data do emprestimo: </label>
+        <input id="dataemprestimotxt" value="20/10/2019" name="dataemprestimotxt" />
+        <br /><br />
+
+        <input type="submit" value="CADASTRAR EMPRESTIMO" />
+
+    </form>
+
+</body>
+</html>

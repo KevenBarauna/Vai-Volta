@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="VaieVoltaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TB_Emprestimo">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="obejto" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="pessoa" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="telefone" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="datadevolucao" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="dataemprestimo" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="TB_Usuario">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="nome" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="senha" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="VaieVoltaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TB_Emprestimo" EntityType="Self.TB_Emprestimo" />
+    <EntitySet Name="TB_Usuario" EntityType="Self.TB_Usuario" />
+  </EntityContainer>
+</Schema>

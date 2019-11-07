@@ -1,0 +1,52 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Home</title>
+</head>
+<body>
+    <p>Essa é minha Home!</p>
+    Olá! <p>Null</p>
+    <form action="/Login/ApagarConta">
+
+        <label for="id"> ID: </label>
+        <input id="id" value="5" name="idtxt" />
+
+        <input type="submit" value="APAGAR ESSA CONTA" />
+    </form>
+
+    <form action="/Emprestimo/NovoEmprestimo">
+        <input type="submit" value="Criar um novo emprestimo" />
+    </form>
+
+    <table border="1">
+        <tr>
+            <th>ID</th>
+            <th>Pessoa</th>
+            <th>Objeto</th>
+            <th>Data emprestimo</th>
+            <th>Data devolução</th>
+            <th>Telefone</th>
+        </tr>
+        @foreach (var percorreLista in ViewBag.EmprestimoView)
+        {
+            <tr>
+                <td>@percorreLista.Id</td>
+                <td>@percorreLista.Pessoa</td>
+                <td>@percorreLista.Objeto</td>
+                <td>@percorreLista.DataEmprestimo</td>
+                <td>@percorreLista.DataDevolucao</td>
+                <td>@percorreLista.Telefone</td>
+            </tr>
+        }
+    </table>
+
+
+</body>
+</html>

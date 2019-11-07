@@ -1,0 +1,157 @@
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\obj\Debug\VaieVolta.csproj.CoreCompileInputs.cache
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\VaieVolta.dll.config
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\VaieVolta.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\VaieVolta.pdb
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\csc.exe
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\csc.exe.config
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\csc.rsp
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\csi.exe
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\csi.exe.config
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\csi.rsp
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\System.AppContext.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\System.Console.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\System.IO.Compression.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\System.IO.Pipes.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\System.Security.Claims.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\System.ValueTuple.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\System.Xml.XPath.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\vbc.exe
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\vbc.exe.config
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\vbc.rsp
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\VBCSCompiler.exe
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\System.Web.Helpers.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\System.Web.Mvc.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\System.Web.Razor.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\System.Web.Webpages.Deployment.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\System.Web.Webpages.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\System.Web.Webpages.Razor.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\System.Web.Razor.xml
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\System.Web.Webpages.xml
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\System.Web.Webpages.Deployment.xml
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\System.Web.Webpages.Razor.xml
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\System.Web.Helpers.xml
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\System.Web.Mvc.xml
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\obj\Debug\VaieVolta.csproj.CopyComplete
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\obj\Debug\VaieVolta.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\obj\Debug\VaieVolta.pdb
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\EntityFramework.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\EntityFramework.SqlServer.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\EntityFramework.xml
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\bin\EntityFramework.SqlServer.xml
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\22- VaieVolta - BancodeDados\VaieVolta\VaieVolta\obj\Debug\VaieVolta.csprojAssemblyReference.cache
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\VaieVolta.dll.config
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\VaieVolta.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\VaieVolta.pdb
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\csc.exe
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\csc.exe.config
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\csc.rsp
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\csi.exe
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\csi.exe.config
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\csi.rsp
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\System.AppContext.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\System.Console.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\System.IO.Compression.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\System.IO.Pipes.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\System.Security.Claims.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\System.ValueTuple.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\System.Xml.XPath.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\vbc.exe
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\vbc.exe.config
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\vbc.rsp
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\VBCSCompiler.exe
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\EntityFramework.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\EntityFramework.SqlServer.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\System.Web.Helpers.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\System.Web.Mvc.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\System.Web.Razor.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\System.Web.Webpages.Deployment.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\System.Web.Webpages.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\System.Web.Webpages.Razor.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\EntityFramework.xml
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\EntityFramework.SqlServer.xml
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\System.Web.Razor.xml
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\System.Web.Webpages.xml
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\System.Web.Webpages.Deployment.xml
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\System.Web.Webpages.Razor.xml
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\System.Web.Helpers.xml
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\System.Web.Mvc.xml
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\obj\Debug\VaieVolta.csproj.CoreCompileInputs.cache
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\obj\Debug\VaieVolta.csproj.CopyComplete
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\obj\Debug\VaieVolta.dll
+C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_Vai&Volta-V2\Vai-Volta-V2\VaieVolta\obj\Debug\VaieVolta.pdb
